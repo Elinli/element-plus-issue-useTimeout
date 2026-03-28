@@ -1,1 +1,17 @@
-
+{
+  "name": "nuxt-i18n-500-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "vue": "3.5.31",
+    "element-plus": "2.13.6",
+    "@element-plus/nuxt": "^1.1.1",
+    "@nuxtjs/i18n": "8.5.5",
+    "unhead": "1.11.11",
+    "nuxt": "3.13.2"
+  }
+}
